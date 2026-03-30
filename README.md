@@ -21,21 +21,21 @@ The workflow includes:
 
 ## 📂 Project Structure
 ├── Code/
-│   ├── Loading mosaics and visualizing.ipynb
-│   ├── Remove soil pixel.ipynb
-│   ├── Feature extraction.ipynb
-│   ├── Feature Engineering.ipynb
-│   ├── Yield Prediction Model.ipynb
+│ ├── Loading mosaics and visualizing.ipynb
+│ ├── Remove soil pixel.ipynb
+│ ├── Feature extraction.ipynb
+│ ├── Feature Engineering.ipynb
+│ ├── Yield Prediction Model.ipynb
 │
 ├── Data/
-│   ├── raw/
-│   ├── stack/
-│   ├── shapefiles/
-│   ├── Vegetation_Indices_Output/
+│ ├── raw/
+│ ├── stack/
+│ ├── shapefiles/
+│ ├── Vegetation_Indices_Output/
 │
 ├── Results/
-│   ├── NDVI_output/
-│   ├── Model_Results/
+│ ├── NDVI_output/
+│ ├── Model_Results/
 │
 ├── README.md
 
