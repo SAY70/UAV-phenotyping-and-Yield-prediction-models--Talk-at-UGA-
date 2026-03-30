@@ -183,6 +183,7 @@ Install dependencies:
 
 ```bash
 pip install numpy pandas matplotlib rasterio geopandas scikit-learn xgboost openpyxl
+```
 
 ## ⚙️ Large Data Handling
 
