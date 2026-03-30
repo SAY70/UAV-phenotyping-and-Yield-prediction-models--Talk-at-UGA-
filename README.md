@@ -20,6 +20,7 @@ The workflow includes:
 ---
 
 ## 📂 Project Structure
+```
 ├── Code/
 │ ├── Loading mosaics and visualizing.ipynb
 │ ├── Remove soil pixel.ipynb
@@ -38,8 +39,7 @@ The workflow includes:
 │ ├── Model_Results/
 │
 ├── README.md
-
-
+```
 ---
 
 ## 🛰️ 1. Multispectral Band Stacking
