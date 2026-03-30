@@ -210,7 +210,7 @@ git lfs track "*.tif" "*.las" "*.xlsx"
 
 ## 👨‍🔬 Author
 
-**Dr. Sura Yadav**  
+**Dr. Suraj Yadav**  
 Postdoctoral Researcher  
 Mississippi State University  
 
