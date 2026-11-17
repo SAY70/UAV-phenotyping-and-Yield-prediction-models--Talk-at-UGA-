@@ -27,15 +27,21 @@ The workflow includes:
 │ ├── Feature extraction.ipynb
 │ ├── Feature Engineering.ipynb
 │ ├── Yield Prediction Model.ipynb
+│ ├── Already having shape file.ipynb
 │
-├── Data/
-│ ├── raw/
-│ ├── stack/
-│ ├── shapefiles/
+├── 5_28_2020/ 6_10_2020/ 6_15_2020/ 6_23_2020/ 7_16_2020/   (one folder per UAV flight date)
+│ ├── raw/          single-band B, G, R, RE, NIR GeoTIFFs
+│ ├── stack/        5-band stacked GeoTIFF
+│ ├── shapefiles/   subplot polygons (not in 7_16_2020)
+│
+├── 6_10_2020/ also contains:
+│ ├── NDVI_output/
+│ ├── Shape clip/
 │ ├── Vegetation_Indices_Output/
 │
-├── Results/
-│ ├── NDVI_output/
+├── Yield Data/
+│ ├── Yield Data_vs_6_10_2020_VIs.xlsx
+│ ├── PLSR_VIP_Ranking.xlsx
 │ ├── Model_Results/
 │
 ├── README.md
