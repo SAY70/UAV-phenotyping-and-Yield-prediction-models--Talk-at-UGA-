@@ -89,7 +89,7 @@ NDVI formula: NDVI = (NIR - Red) / (NIR + Red)
 
 
 - Invalid pixels are masked
-- Soil removal using threshold:
+- Soil removal: pixels with NDVI ≤ `NDVI_SOIL_THRESHOLD` are masked as soil, so only vegetation pixels with NDVI above the threshold are kept. `Code/Remove soil pixel.ipynb` uses 0.55 for the NDVI map and 0.6 for the vegetation-index rasters.
 
 
 ---
