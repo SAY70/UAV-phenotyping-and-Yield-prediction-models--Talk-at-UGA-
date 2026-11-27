@@ -1,0 +1,10 @@
+# Jupyter notebook autosaves
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
